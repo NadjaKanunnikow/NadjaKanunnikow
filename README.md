@@ -1,16 +1,13 @@
-# Hey, I´m Nadja👋!
+# Code, Coffee, and Curiosity: <br>Venturing into the Digital Sphere 🌱🌿🌳🚀
 
-Welcome!
+## About Me 🤓
+I'm a trained business administrator who has always been on the lookout for new challenges. After completing the Web Development Bootcamp at neueFische, I discovered my passion for coding and I'm ready to explore and grow in the digital realm.
 
-I love running 🏃🏻‍♀️, reading 📚 and learning new things.
+## Projects🧐
+Code Snippet Manager
+In a team of 4, we developed a web app during the bootcamp that provides developers with a unified platform for efficiently storing, organizing, and retrieving code snippets, cheatsheets, and more. Our goal was to optimize workflow and promote code reusability. We placed particular emphasis on ensuring that the platform is accessible and complies with WCAG 2.1 to ensure an inclusive and seamless experience for all users.
 
-[Running](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geo.de%2Fmagazine%2Fgeo-kompakt%2F234-rtkl-joggen-wie-man-sinnvoll-mit-dem-laufen-beginnt&psig=AOvVaw3Z1uLI-A5BumsO0rmsqThp&ust=1687338002626000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDg9oO-0f8CFQAAAAAdAAAAABAD)
+## Interests🧘‍♀️🏃‍♀️🧖‍♀️🥶👩‍💻🚺🧠🤝👥
+Yoga, running, sauna sessions, and ice baths are some of my passions alongside coding. I'm interested in feminism, psychology, and engaging with open-minded and reflective individuals.
 
-
-![jogger](https://github.com/NadjaKanunnikow/NadjaKanunnikow/assets/136720547/55b33ca3-aff5-4475-94bf-01520fa8305d)
-
-Things I love:
-- sauna
-- nature
-- fried potatoas
   
