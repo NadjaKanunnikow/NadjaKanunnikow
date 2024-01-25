@@ -10,4 +10,6 @@ In a team of 4, we developed a web app during the bootcamp that provides develop
 ## Interests🧘‍♀️🏃‍♀️🧖‍♀️🥶👩‍💻🚺🧠🤝👥
 Yoga, running, sauna sessions, and ice baths are some of my passions alongside coding. I'm interested in feminism, psychology, and engaging with open-minded and reflective individuals.
 
+## Contact:
+Feel free to reach out if you have any questions or are interested in collaborating. You can contact me via email at [nadja.kanunnikow@gmail.com](nadja.kanunnikow@gmail.com) or connect with me on [Linkedin](www.linkedin.com/in/kanunnikow).
   
