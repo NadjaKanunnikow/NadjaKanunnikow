@@ -1,7 +1,7 @@
 # Code, Coffee, and Curiosity: <br>Venturing into the Digital Sphere 🌱🌿🌳🚀
 
 ## About Me 🤓
-I'm a trained business administrator who has always been on the lookout for new challenges. After completing the Web Development Bootcamp at neueFische, I discovered my passion for coding and I'm ready to explore and grow in the digital realm.
+I'm a trained business administrator who has always been on the lookout for new challenges. After completing the Web Development Bootcamp at [neueFische](https://github.com/neuefische), I discovered my passion for coding and I'm ready to explore and grow in the digital realm.
 
 ## Projects🧐
 Code Snippet Manager
